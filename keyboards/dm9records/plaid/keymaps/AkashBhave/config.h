@@ -18,3 +18,6 @@
 #pragma once
 
 // place overrides here
+
+#define PREVENT_STUCK_MODIFIERS
+
